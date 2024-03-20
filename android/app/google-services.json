@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615774637738",
+    "project_id": "minichat-4cffc",
+    "storage_bucket": "minichat-4cffc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615774637738:android:4e875f7d97a7d058d18ad3",
+        "android_client_info": {
+          "package_name": "com.example.minichat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUEWvJeipc3w_k9pW-aLYNhATiSE2aDXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
